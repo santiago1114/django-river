@@ -13,7 +13,7 @@ Getting Started
 
        INSTALLED_APPS=[
            ...
-           river
+           'river'
            ...
        ]
 
